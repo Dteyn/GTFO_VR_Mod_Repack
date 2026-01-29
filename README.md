@@ -32,3 +32,5 @@ https://github.com/DSprtn/GTFO_VR_Plugin/releases/tag/1.3.3
 ### Credits:
 
 Thank you to everyone involved in these projects: [GTFO VR Plugin](https://github.com/DSprtn/GTFO_VR_Plugin), [BepInEx](https://github.com/BepInEx/BepInEx), and [VR Performance Kit](https://github.com/fholger/vrperfkit). I take no credit for any of their work; all credit belongs where credit is due.
+
+You are visitor: ![Page views](https://dteyn-rad-page.netlify.app/.netlify/functions/pageviews?repo=GTFO_VR_Mod_Repack)
